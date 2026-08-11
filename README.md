@@ -38,3 +38,9 @@ flowchart LR
 
     NS --> SVC[🌐 LoadBalancer Service]
     SVC --> USERS[👥 Application Users]
+
+ ---
+
+📋 Project Overview
+
+This project implements an end-to-end GitOps workflow for deploying a Go web application on Azure Kubernetes Service.
