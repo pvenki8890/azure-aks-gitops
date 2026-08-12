@@ -140,10 +140,7 @@ azure-aks-gitops/
 ├── .gitignore
 └── README.md
 
-<img width="938" height="502" alt="Screenshot 2026-08-11 230324" src="https://github.com/user-attachments/assets/0860953e-b103-40a3-b177-decad535db60" />
-
-
-
+<img width="938" height="502" alt="Screenshot 2026-08-11 230324" src="https://github.com/user-attachments/assets/1b7aaf6c-1330-4d6d-8aaa-891828789169" />
 ```
 
 ---
