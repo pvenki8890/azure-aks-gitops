@@ -1,4 +1,4 @@
-# 🚀 Azure AKS GitOps with Argo CD
+# Azure AKS GitOps Deployment Pipeline with Argo CD
 
 A hands-on **DevOps & GitOps project** demonstrating the deployment of a containerized Go application to **Azure Kubernetes Service (AKS)** using **Docker, Azure Container Registry (ACR), Kubernetes, GitHub, and Argo CD**.
 
