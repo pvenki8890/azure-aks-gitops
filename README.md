@@ -190,6 +190,7 @@ curl http://localhost:8082/
 ```bash
 curl http://localhost:8082/courses
 ```
+<img width="938" height="904" alt="Screenshot 2026-08-11 131830" src="https://github.com/user-attachments/assets/160e3fa0-a096-4b0d-ab97-c97e32731723" />
 
 ---
 
