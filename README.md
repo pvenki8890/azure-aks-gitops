@@ -140,7 +140,9 @@ azure-aks-gitops/
 ├── .gitignore
 └── README.md
 
-![Uploading Screenshot 2026-08-11 230324.png…]()
+<img width="938" height="502" alt="Screenshot 2026-08-11 230324" src="https://github.com/user-attachments/assets/0860953e-b103-40a3-b177-decad535db60" />
+
+
 
 ```
 
