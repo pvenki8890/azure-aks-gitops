@@ -215,6 +215,7 @@ pvgitopsacr2026.azurecr.io/azure-web-app:v2
 ```bash
 docker push pvgitopsacr2026.azurecr.io/azure-web-app:v2
 ```
+<img width="974" height="240" alt="Screenshot 2026-08-11 132553" src="https://github.com/user-attachments/assets/7b3190ba-ff51-4805-9657-7f64bf3b9df5" />
 
 ---
 
@@ -386,6 +387,9 @@ syncPolicy:
                     v
              Kubernetes Pods
 ```
+<img width="943" height="1019" alt="Screenshot 2026-08-11 225241" src="https://github.com/user-attachments/assets/65c8862d-0328-4cdb-8dc4-d9715086d7b1" />
+
+<img width="955" height="315" alt="Screenshot 2026-08-11 230600" src="https://github.com/user-attachments/assets/d186928a-de17-4159-a303-884322f700cb" />
 
 Git acts as the **source of truth** for the Kubernetes configuration.
 
@@ -461,6 +465,8 @@ It automatically reconciled the Deployment back to:
 ```text
 2 replicas
 ```
+<img width="938" height="502" alt="Screenshot 2026-08-11 230324" src="https://github.com/user-attachments/assets/7b71fcd7-8cf0-47f3-b4c4-ac73f15eb329" />
+
 
 ### ✅ Final Verified State
 
