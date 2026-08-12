@@ -139,6 +139,9 @@ azure-aks-gitops/
 ├── Dockerfile
 ├── .gitignore
 └── README.md
+
+![Uploading Screenshot 2026-08-11 230324.png…]()
+
 ```
 
 ---
